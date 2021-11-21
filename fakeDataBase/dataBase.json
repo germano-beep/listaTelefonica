@@ -1,0 +1,40 @@
+{
+    "contatos": [{
+        "nome": "tulio da Silva",
+        "telefone": "999999999",
+        "data": "06/19/2021",
+        "cor": "blue"
+    }, {
+        "nome": "lucas Herman de cunha",
+        "telefone": "999993499",
+        "data": "06/19/2021",
+        "cor": "yellow"
+    }, {
+        "nome": "Julia loana lorena",
+        "telefone": "999996799",
+        "data": "06/19/2021",
+        "cor": "green"
+    }],
+
+    "operadoras": [{
+        "nome": "Oi",
+        "codigo": 14,
+        "categoria": "Celular"
+    }, {
+        "nome": "Vivo",
+        "codigo": 15,
+        "categoria": "Celular"
+    }, {
+        "nome": "Tim",
+        "codigo": 41,
+        "categoria": "Celular"
+    }, {
+        "nome": "GVT",
+        "codigo": 25,
+        "categoria": "Fixo"
+    }, {
+        "nome": "Embratel",
+        "codigo": 21,
+        "categoria": "Fixo"
+    }]
+}
